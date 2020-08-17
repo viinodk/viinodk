@@ -1,3 +1,6 @@
+
+https://www.linkedin.com/in/viinodkulkarni/
+
 ### Hi SDET's  and Developers 👋
 
 I am Vinod, SDET and an Automation Architect,  am passionate about creating automation frameworks for UI, Mobile and API.
