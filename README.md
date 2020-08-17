@@ -1,7 +1,14 @@
 ### Hi SDET's  and Developers 👋
 
+I am Vinod, SDET and an Automation Architect,  am passionate about creating automation frameworks for UI, Mobile and API.
 
-
+1) Core Java with Selenium
+2) Mobile (Android/IOS) with Selenium and Appium
+3) Cucumber BDD Framework
+4) REST API using HTTP and restful api
+5) Protractor for test automation angular UI
+6) Mobile iOS uisng CodeceptJS
+7) Cypress Automation for Web and API
 
 <!--
 **viinodk/viinodk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
