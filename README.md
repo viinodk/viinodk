@@ -13,6 +13,10 @@ I am Vinod, SDET and an Automation Architect,  am passionate about creating auto
 6) Mobile iOS uisng CodeceptJS
 7) Cypress Automation for Web and API
 
+💬 Ask me about automation concepts, core java
+
+📫 How to reach me: +91 9902822877
+
 <!--
 **viinodk/viinodk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
