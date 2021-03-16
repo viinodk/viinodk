@@ -13,7 +13,9 @@ I am Vinod, SDET and an Automation Architect,  am passionate about creating auto
 6) Mobile iOS uisng CodeceptJS
 7) Cypress Automation for Web and API
 
-💬 Ask me about automation concepts, core java
+💬 Ask me about Design principles, automation concepts, core java
+
+🤔 I’m looking for help with Consulting Automation (Web/Mobile/Cloud) in regional languages
 
 📫 How to reach me: +91 9902822877
 
