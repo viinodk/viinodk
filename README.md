@@ -7,7 +7,7 @@ I am Vinod, SDET and an Automation Architect,  am passionate about creating auto
 
 1) Robot Framework with Selenium and Python
 2) Data Analysis using AI
-3) Cyber Security Professional
+3) Playwright Automation
 4) Core Java with Selenium
 5) Mobile (Android/IOS) with Selenium and Appium
 6) Cucumber BDD Framework
@@ -15,6 +15,8 @@ I am Vinod, SDET and an Automation Architect,  am passionate about creating auto
 8) Protractor for test automation angular UI
 9) Mobile iOS uisng CodeceptJS
 10) Cypress Automation for Web and API
+11) Passionate about integrating AI-driven automation into QA processes to drive innovation and efficiency
+12) Hands-on experience in containerization (Docker, Kubernetes), virtualization (Proxmax, VMware ESXi, KVM, Hyper-V), and performance testing tools (JMeter, LoadRunner, k6)
 
 💬 Ask me about Design principles, automation concepts, API, core java
 
