@@ -22,7 +22,7 @@ I am Vinod, SDET and an Automation Architect,  am passionate about creating auto
 
 🤔 I’m looking for help with Consulting Automation (Web/Mobile/Cloud) in regional languages
 
-📫 How to reach me: +91 9902822877
+📫 How to reach me: vinodkulkarni.tech@gmail.com
 
 <!--
 **viinodk/viinodk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
